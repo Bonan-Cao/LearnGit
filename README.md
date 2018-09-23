@@ -7,6 +7,7 @@ master 修改1
 创建feat3
 --已修改
 change1
+change2
 
 # LearnGit
 learn git
